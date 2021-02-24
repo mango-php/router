@@ -1,0 +1,12 @@
+{
+    "name": "mango/router",
+    "description": "Router library for the MangoPHP framework.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "ketchums",
+            "email": "ketchums@outlook.com"
+        }
+    ],
+    "require": {}
+}
