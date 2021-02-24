@@ -1,5 +1,5 @@
 {
-    "name": "mango/router",
+    "name": "mango-php/router",
     "description": "Router library for the MangoPHP framework.",
     "type": "library",
     "authors": [
