@@ -10,8 +10,8 @@
     ],
     "require": {},
     "autoload": {
-        "psr-0": {
-            "Mango\\": "src/"
+        "psr-4": {
+            "Mango": "src/"
         }
     }
 }
